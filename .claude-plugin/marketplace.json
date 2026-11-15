@@ -1,0 +1,5 @@
+{
+  "name": "night-sky-mods",
+  "owner": { "name": "Devanshi Singh" },
+  "plugins": [{ "name": "night-sky", "source": "./" }]
+}

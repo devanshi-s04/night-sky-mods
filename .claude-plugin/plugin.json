@@ -1,0 +1,6 @@
+{
+  "name": "night-sky",
+  "version": "0.2.0",
+  "description": "Animated backdrops behind the Claude conversation: an ASCII Vera C. Rubin Observatory on Cerro Pachon at night, sunset, sunrise or by day, and a plain Night Sky; /sky <name> switches",
+  "author": { "name": "Devanshi Singh" }
+}
